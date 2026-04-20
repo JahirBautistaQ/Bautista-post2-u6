@@ -1,3 +1,7 @@
-com\universidad\antipatrones\Pedido.class
 com\universidad\antipatrones\ProcesadorPedidos.class
+com\universidad\antipatrones\DescuentoPremium.class
 com\universidad\antipatrones\Main.class
+com\universidad\antipatrones\DescuentoVIP.class
+com\universidad\antipatrones\EstrategiaDescuento.class
+com\universidad\antipatrones\DescuentoEstandar.class
+com\universidad\antipatrones\Pedido.class
